@@ -1,5 +1,5 @@
 # seahorse-price-feed
-A simple Seahorse program that retrieves prices from the [Pyth](https://pyth.network/) oracle.
+A simple Seahorse program that retrieves prices from the [Pyth network](https://pyth.network/) oracle.
 
 ## Tutorial
 
