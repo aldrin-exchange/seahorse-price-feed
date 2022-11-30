@@ -5,7 +5,7 @@ A simple Seahorse program that retrieves prices from the Pyth oracle.
 
 Follow the steps below to run and test this smart contract.
 
-1. Rom the command line run `seahorse init pricefeed` to start a new project called pricefeed.
+1. From the command line run `seahorse init pricefeed` to start a new project called pricefeed.
 
 2. Replace the generated `pricefeed.py` file in `pricefeed/programs_py` with the `pricefeed.py` file of this repository.
 
