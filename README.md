@@ -7,11 +7,11 @@ Follow the steps below to run and test this smart contract.
 
 1. Rom the command line run `seahorse init pricefeed` to start a new project called pricefeed.
 
-2. Replace the generated pricefeed.py file in pricefeed/programs_py with the pricefeed.py file of this repository.
+2. Replace the generated `pricefeed.py` file in `pricefeed/programs_py` with the `pricefeed.py` file of this repository.
 
 3. Go to the pricefeed folder and run `seahorse build`.
 
-4. Now we need to obtain the public key of our program. Execute (from the pricefeed folder) the command
+4. Now we need to obtain the public key of our program. Execute (from the `pricefeed` folder) the command
 
 `solana-keygen pubkey target/deploy/pricefeedtest-keypair.json`
 
