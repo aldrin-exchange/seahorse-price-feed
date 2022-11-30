@@ -1,5 +1,5 @@
 # seahorse-price-feed
-A simple Seahorse program that retrieves prices from the Pyth oracle.
+A simple Seahorse program that retrieves prices from the [Pyth](https://pyth.network/) oracle.
 
 ## Tutorial
 
@@ -9,7 +9,7 @@ Follow the steps below to run and test this smart contract.
 
 2. Replace the generated `pricefeed.py` file in `pricefeed/programs_py` with the `pricefeed.py` file of this repository.
 
-3. Go to the pricefeed folder and run `seahorse build`.
+3. Go to the `pricefeed` folder and run `seahorse build`.
 
 4. Now we need to obtain the public key of our program. Execute (from the `pricefeed` folder) the command
 
